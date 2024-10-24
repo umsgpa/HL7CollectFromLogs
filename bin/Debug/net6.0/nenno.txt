@@ -1,0 +1,385 @@
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307150631+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26729|P|2.5.1|||AL
+PID|||980003980^^^154^PPI~A6210315^^^139^PI~DIG000000000120^^^309^PI||DENNIS^ERNEST||198809100000|M|||24 Llangewydd Road^Bridgend^^^CF31 4JW
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307150620+0000
+OBR|1||990000102006|GENTAM^Gentamicin^Trak^44WY.^B3302^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+ORC|OR||||||||20230307150620+0000
+OBR|2||990000102006|VANCO^Vancomycin^Trak^44We.^B3915^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+ORC|OR||||||||20230307150620+0000
+OBR|3||990000102006|PCT^Procalcitonin^Trak^^B5029|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+ORC|OR||||||||20230307150620+0000
+OBR|4||990000102006|NSE^Neuron specific enolase^Trak^4Q93.^B3245^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+ORC|OR||||||||20230307150620+0000
+OBR|5||990000102006|TEICO^Teicoplanin^Trak^44Wk.^B3918^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071506||ACK|fps_epsilon__1676627787256__26729|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26729
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307150721+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26731|P|2.5.1|||AL
+PID|||980003980^^^154^PPI~A6210315^^^139^PI~DIG000000000120^^^309^PI||DENNIS^ERNEST||198809100000|M|||24 Llangewydd Road^Bridgend^^^CF31 4JW
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307150713+0000
+OBR|1||990000102006|GENTAM^Gentamicin^Trak^44WY.^B3302^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071507|||F|||||||Dhanashree Godghate
+NTE|1||Neonates and patients with severe renal impairment: Follow local protocols. Other groups: For a once-daily dose regimen, the pre-dose level taken 18-24 hours after the dose is administered should be <1 mg/L. Post dose levels are not normally required. For timed samples, where local dosing policies use a nomogram to determine timing of gentamicin assay and dosing interval, this should be followed. For a multiple daily dosing regimen, the one hour (or "peak") serum concentration should be 5-10mg/L (or 3-5mg/L if treating streptococcal /enterococcal/staphylococcal endocarditis). The pre-dose (or "trough") concentration level should be < 2mg/L (or < 1mg/L for streptococcal/enterococcal/staphylococcal endocarditis).
+OBX|1567510013|SN|GENT^Gentamicin^Trak^^B3906||^1.1|mg/L||N|||F|||202303071339
+OBX|1567510014|CE|GENTT^Gentamicin Timing^Trak^^B3907||RAND^Random sample^L|||N|||F|||202303071339
+ORC|OR||||||||20230307150713+0000
+OBR|2||990000102006|VANCO^Vancomycin^Trak^44We.^B3915^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071507|||F|||||||Dhanashree Godghate
+NTE|1||Pre-dose levels should normally be 10-15mg/L.
+NTE|2||To improve clinical outcomes in complicated infections caused by
+NTE|3||S. aureus, such as bacteraemia, endocarditis, osteomyelitis,
+NTE|4||meningitis and hospital-acquired pneumonia, pre-dose vancomycin
+NTE|5||levels of 15-20mg/L are recommended.
+NTE|6||In high dependency areas who use continuous infusions of vancomycin,
+NTE|7||a steady state level of 15-25mg/L should be maintained.
+NTE|8
+OBX|1567510015|SN|VANC^Vancomycin^Trak^^B3993||^1.2|mg/L||N|||F|||202303071339
+OBX|1567510016|CE|VANCT^Vancomycin timing^Trak^^B3994||RAND^Random sample^L|||N|||F|||202303071339
+ORC|OR||||||||20230307150713+0000
+OBR|3||990000102006|PCT^Procalcitonin^Trak^^B5029|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+ORC|OR||||||||20230307150713+0000
+OBR|4||990000102006|NSE^Neuron specific enolase^Trak^4Q93.^B3245^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+ORC|OR||||||||20230307150713+0000
+OBR|5||990000102006|TEICO^Teicoplanin^Trak^44Wk.^B3918^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071507||ACK|fps_epsilon__1676627787256__26731|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26731
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307150811+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26733|P|2.5.1|||AL
+PID|||980003980^^^154^PPI~A6210315^^^139^PI~DIG000000000120^^^309^PI||DENNIS^ERNEST||198809100000|M|||24 Llangewydd Road^Bridgend^^^CF31 4JW
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307150803+0000
+OBR|1||990000102006|GENTAM^Gentamicin^Trak^44WY.^B3302^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071507|||F|||||||Dhanashree Godghate
+NTE|1||Neonates and patients with severe renal impairment: Follow local protocols. Other groups: For a once-daily dose regimen, the pre-dose level taken 18-24 hours after the dose is administered should be <1 mg/L. Post dose levels are not normally required. For timed samples, where local dosing policies use a nomogram to determine timing of gentamicin assay and dosing interval, this should be followed. For a multiple daily dosing regimen, the one hour (or "peak") serum concentration should be 5-10mg/L (or 3-5mg/L if treating streptococcal /enterococcal/staphylococcal endocarditis). The pre-dose (or "trough") concentration level should be < 2mg/L (or < 1mg/L for streptococcal/enterococcal/staphylococcal endocarditis).
+OBX|1567510017|SN|GENT^Gentamicin^Trak^^B3906||^1.1|mg/L||N|||F|||202303071339
+OBX|1567510018|CE|GENTT^Gentamicin Timing^Trak^^B3907||RAND^Random sample^L|||N|||F|||202303071339
+ORC|OR||||||||20230307150803+0000
+OBR|2||990000102006|VANCO^Vancomycin^Trak^44We.^B3915^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071507|||F|||||||Dhanashree Godghate
+NTE|1||Pre-dose levels should normally be 10-15mg/L.
+NTE|2||To improve clinical outcomes in complicated infections caused by
+NTE|3||S. aureus, such as bacteraemia, endocarditis, osteomyelitis,
+NTE|4||meningitis and hospital-acquired pneumonia, pre-dose vancomycin
+NTE|5||levels of 15-20mg/L are recommended.
+NTE|6||In high dependency areas who use continuous infusions of vancomycin,
+NTE|7||a steady state level of 15-25mg/L should be maintained.
+NTE|8
+OBX|1567510019|SN|VANC^Vancomycin^Trak^^B3993||^1.2|mg/L||N|||F|||202303071339
+OBX|1567510020|CE|VANCT^Vancomycin timing^Trak^^B3994||RAND^Random sample^L|||N|||F|||202303071339
+ORC|OR||||||||20230307150803+0000
+OBR|3||990000102006|PCT^Procalcitonin^Trak^^B5029|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+ORC|OR||||||||20230307150803+0000
+OBR|4||990000102006|NSE^Neuron specific enolase^Trak^4Q93.^B3245^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+ORC|OR||||||||20230307150803+0000
+OBR|5||990000102006|TEICO^Teicoplanin^Trak^44Wk.^B3918^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||P|||||||Missing Data
+NTE|1||@ Teicoplanin testing performed at
+NTE|2||In serious infections, including bone and joint infections,
+NTE|3||pre-dose teicoplanin levels should be > 20mg/L.
+NTE|4||In infective endocarditis, pre-dose teicoplanin levels
+NTE|5||should be > 30mg/L.
+NTE|6||For all other infections, pre-dose teicoplanin levels
+NTE|7||should be > 15mg/L.
+NTE|8||To avoid toxicity, pre-dose teicoplanin levels should be < 60mg/L.
+NTE|9
+OBX|1567510021|SN|TEICO^Teicoplanin^Trak^44Wk.^B3005^RC||^15.0|mg/L||N|||P|||202303071339
+OBX|1567510022|CE|TEICOT^Teicoplanin timing^Trak^^B3006||RAND^Random sample^L|||N|||P|||202303071339
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071508||ACK|fps_epsilon__1676627787256__26733|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26733
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307150830+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26734|P|2.5.1|||AL
+PID|||980003980^^^154^PPI~A6210315^^^139^PI~DIG000000000120^^^309^PI||DENNIS^ERNEST||198809100000|M|||24 Llangewydd Road^Bridgend^^^CF31 4JW
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307150819+0000
+OBR|1||990000102006|GENTAM^Gentamicin^Trak^44WY.^B3302^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071507|||F|||||||Dhanashree Godghate
+NTE|1||Neonates and patients with severe renal impairment: Follow local protocols. Other groups: For a once-daily dose regimen, the pre-dose level taken 18-24 hours after the dose is administered should be <1 mg/L. Post dose levels are not normally required. For timed samples, where local dosing policies use a nomogram to determine timing of gentamicin assay and dosing interval, this should be followed. For a multiple daily dosing regimen, the one hour (or "peak") serum concentration should be 5-10mg/L (or 3-5mg/L if treating streptococcal /enterococcal/staphylococcal endocarditis). The pre-dose (or "trough") concentration level should be < 2mg/L (or < 1mg/L for streptococcal/enterococcal/staphylococcal endocarditis).
+OBX|1567510023|SN|GENT^Gentamicin^Trak^^B3906||^1.1|mg/L||N|||F|||202303071339
+OBX|1567510024|CE|GENTT^Gentamicin Timing^Trak^^B3907||RAND^Random sample^L|||N|||F|||202303071339
+ORC|OR||||||||20230307150819+0000
+OBR|2||990000102006|VANCO^Vancomycin^Trak^44We.^B3915^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071507|||F|||||||Dhanashree Godghate
+NTE|1||Pre-dose levels should normally be 10-15mg/L.
+NTE|2||To improve clinical outcomes in complicated infections caused by
+NTE|3||S. aureus, such as bacteraemia, endocarditis, osteomyelitis,
+NTE|4||meningitis and hospital-acquired pneumonia, pre-dose vancomycin
+NTE|5||levels of 15-20mg/L are recommended.
+NTE|6||In high dependency areas who use continuous infusions of vancomycin,
+NTE|7||a steady state level of 15-25mg/L should be maintained.
+NTE|8
+OBX|1567510025|SN|VANC^Vancomycin^Trak^^B3993||^1.2|mg/L||N|||F|||202303071339
+OBX|1567510026|CE|VANCT^Vancomycin timing^Trak^^B3994||RAND^Random sample^L|||N|||F|||202303071339
+ORC|OR||||||||20230307150819+0000
+OBR|3||990000102006|PCT^Procalcitonin^Trak^^B5029|||202303071339|||||||202303071458||^Nurse 2||||||202303071508|||F|||||||Dhanashree Godghate
+OBX|1567510027|SN|PROCT^Procalcitonin^Trak^^B5093||^0.04|ug/L||N|||F|||202303071339
+ORC|OR||||||||20230307150819+0000
+OBR|4||990000102006|NSE^Neuron specific enolase^Trak^4Q93.^B3245^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||I|||||||Missing Data
+ORC|OR||||||||20230307150819+0000
+OBR|5||990000102006|TEICO^Teicoplanin^Trak^44Wk.^B3918^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||P|||||||Missing Data
+NTE|1||@ Teicoplanin testing performed at
+NTE|2||In serious infections, including bone and joint infections,
+NTE|3||pre-dose teicoplanin levels should be > 20mg/L.
+NTE|4||In infective endocarditis, pre-dose teicoplanin levels
+NTE|5||should be > 30mg/L.
+NTE|6||For all other infections, pre-dose teicoplanin levels
+NTE|7||should be > 15mg/L.
+NTE|8||To avoid toxicity, pre-dose teicoplanin levels should be < 60mg/L.
+NTE|9
+OBX|1567510028|SN|TEICO^Teicoplanin^Trak^44Wk.^B3005^RC||^15.0|mg/L||N|||P|||202303071339
+OBX|1567510029|CE|TEICOT^Teicoplanin timing^Trak^^B3006||RAND^Random sample^L|||N|||P|||202303071339
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071508||ACK|fps_epsilon__1676627787256__26734|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26734
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307150840+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26736|P|2.5.1|||AL
+PID|||980003980^^^154^PPI~A6210315^^^139^PI~DIG000000000120^^^309^PI||DENNIS^ERNEST||198809100000|M|||24 Llangewydd Road^Bridgend^^^CF31 4JW
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307150829+0000
+OBR|1||990000102006|GENTAM^Gentamicin^Trak^44WY.^B3302^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071507|||F|||||||Dhanashree Godghate
+NTE|1||Neonates and patients with severe renal impairment: Follow local protocols. Other groups: For a once-daily dose regimen, the pre-dose level taken 18-24 hours after the dose is administered should be <1 mg/L. Post dose levels are not normally required. For timed samples, where local dosing policies use a nomogram to determine timing of gentamicin assay and dosing interval, this should be followed. For a multiple daily dosing regimen, the one hour (or "peak") serum concentration should be 5-10mg/L (or 3-5mg/L if treating streptococcal /enterococcal/staphylococcal endocarditis). The pre-dose (or "trough") concentration level should be < 2mg/L (or < 1mg/L for streptococcal/enterococcal/staphylococcal endocarditis).
+OBX|1567510030|SN|GENT^Gentamicin^Trak^^B3906||^1.1|mg/L||N|||F|||202303071339
+OBX|1567510031|CE|GENTT^Gentamicin Timing^Trak^^B3907||RAND^Random sample^L|||N|||F|||202303071339
+ORC|OR||||||||20230307150829+0000
+OBR|2||990000102006|VANCO^Vancomycin^Trak^44We.^B3915^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071507|||F|||||||Dhanashree Godghate
+NTE|1||Pre-dose levels should normally be 10-15mg/L.
+NTE|2||To improve clinical outcomes in complicated infections caused by
+NTE|3||S. aureus, such as bacteraemia, endocarditis, osteomyelitis,
+NTE|4||meningitis and hospital-acquired pneumonia, pre-dose vancomycin
+NTE|5||levels of 15-20mg/L are recommended.
+NTE|6||In high dependency areas who use continuous infusions of vancomycin,
+NTE|7||a steady state level of 15-25mg/L should be maintained.
+NTE|8
+OBX|1567510032|SN|VANC^Vancomycin^Trak^^B3993||^1.2|mg/L||N|||F|||202303071339
+OBX|1567510033|CE|VANCT^Vancomycin timing^Trak^^B3994||RAND^Random sample^L|||N|||F|||202303071339
+ORC|OR||||||||20230307150829+0000
+OBR|3||990000102006|PCT^Procalcitonin^Trak^^B5029|||202303071339|||||||202303071458||^Nurse 2||||||202303071508|||F|||||||Dhanashree Godghate
+OBX|1567510034|SN|PROCT^Procalcitonin^Trak^^B5093||^0.04|ug/L||N|||F|||202303071339
+ORC|OR||||||||20230307150829+0000
+OBR|4||990000102006|NSE^Neuron specific enolase^Trak^4Q93.^B3245^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071508|||F|||||||Dhanashree Godghate
+OBX|1567510035|SN|NSE^Neuron specific enolase^Trak^4Q93.^B3809^RC||^7.2|ug/L||N|||F|||202303071339
+ORC|OR||||||||20230307150829+0000
+OBR|5||990000102006|TEICO^Teicoplanin^Trak^44Wk.^B3918^RC|||202303071339|||||||202303071458||^Nurse 2|||||||||P|||||||Missing Data
+NTE|1||@ Teicoplanin testing performed at
+NTE|2||In serious infections, including bone and joint infections,
+NTE|3||pre-dose teicoplanin levels should be > 20mg/L.
+NTE|4||In infective endocarditis, pre-dose teicoplanin levels
+NTE|5||should be > 30mg/L.
+NTE|6||For all other infections, pre-dose teicoplanin levels
+NTE|7||should be > 15mg/L.
+NTE|8||To avoid toxicity, pre-dose teicoplanin levels should be < 60mg/L.
+NTE|9
+OBX|1567510036|SN|TEICO^Teicoplanin^Trak^44Wk.^B3005^RC||^15.0|mg/L||N|||P|||202303071339
+OBX|1567510037|CE|TEICOT^Teicoplanin timing^Trak^^B3006||RAND^Random sample^L|||N|||P|||202303071339
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071508||ACK|fps_epsilon__1676627787256__26736|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26736
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307150850+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26737|P|2.5.1|||AL
+PID|||980003980^^^154^PPI~A6210315^^^139^PI~DIG000000000120^^^309^PI||DENNIS^ERNEST||198809100000|M|||24 Llangewydd Road^Bridgend^^^CF31 4JW
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307150840+0000
+OBR|1||990000102006|GENTAM^Gentamicin^Trak^44WY.^B3302^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071507|||F|||||||Dhanashree Godghate
+NTE|1||Neonates and patients with severe renal impairment: Follow local protocols. Other groups: For a once-daily dose regimen, the pre-dose level taken 18-24 hours after the dose is administered should be <1 mg/L. Post dose levels are not normally required. For timed samples, where local dosing policies use a nomogram to determine timing of gentamicin assay and dosing interval, this should be followed. For a multiple daily dosing regimen, the one hour (or "peak") serum concentration should be 5-10mg/L (or 3-5mg/L if treating streptococcal /enterococcal/staphylococcal endocarditis). The pre-dose (or "trough") concentration level should be < 2mg/L (or < 1mg/L for streptococcal/enterococcal/staphylococcal endocarditis).
+OBX|1567510038|SN|GENT^Gentamicin^Trak^^B3906||^1.1|mg/L||N|||F|||202303071339
+OBX|1567510039|CE|GENTT^Gentamicin Timing^Trak^^B3907||RAND^Random sample^L|||N|||F|||202303071339
+ORC|OR||||||||20230307150840+0000
+OBR|2||990000102006|VANCO^Vancomycin^Trak^44We.^B3915^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071507|||F|||||||Dhanashree Godghate
+NTE|1||Pre-dose levels should normally be 10-15mg/L.
+NTE|2||To improve clinical outcomes in complicated infections caused by
+NTE|3||S. aureus, such as bacteraemia, endocarditis, osteomyelitis,
+NTE|4||meningitis and hospital-acquired pneumonia, pre-dose vancomycin
+NTE|5||levels of 15-20mg/L are recommended.
+NTE|6||In high dependency areas who use continuous infusions of vancomycin,
+NTE|7||a steady state level of 15-25mg/L should be maintained.
+NTE|8
+OBX|1567510040|SN|VANC^Vancomycin^Trak^^B3993||^1.2|mg/L||N|||F|||202303071339
+OBX|1567510041|CE|VANCT^Vancomycin timing^Trak^^B3994||RAND^Random sample^L|||N|||F|||202303071339
+ORC|OR||||||||20230307150840+0000
+OBR|3||990000102006|PCT^Procalcitonin^Trak^^B5029|||202303071339|||||||202303071458||^Nurse 2||||||202303071508|||F|||||||Dhanashree Godghate
+OBX|1567510042|SN|PROCT^Procalcitonin^Trak^^B5093||^0.04|ug/L||N|||F|||202303071339
+ORC|OR||||||||20230307150840+0000
+OBR|4||990000102006|NSE^Neuron specific enolase^Trak^4Q93.^B3245^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071508|||F|||||||Dhanashree Godghate
+OBX|1567510043|SN|NSE^Neuron specific enolase^Trak^4Q93.^B3809^RC||^7.2|ug/L||N|||F|||202303071339
+ORC|OR||||||||20230307150840+0000
+OBR|5||990000102006|TEICO^Teicoplanin^Trak^44Wk.^B3918^RC|||202303071339|||||||202303071458||^Nurse 2||||||202303071508|||F|||||||Dhanashree Godghate
+NTE|1||In serious infections, including bone and joint infections,
+NTE|2||pre-dose teicoplanin levels should be > 20mg/L.
+NTE|3||In infective endocarditis, pre-dose teicoplanin levels
+NTE|4||should be > 30mg/L.
+NTE|5||For all other infections, pre-dose teicoplanin levels
+NTE|6||should be > 15mg/L.
+NTE|7||To avoid toxicity, pre-dose teicoplanin levels should be < 60mg/L.
+NTE|8
+OBX|1567510044|SN|TEICO^Teicoplanin^Trak^44Wk.^B3005^RC||^15.0|mg/L||N|||F|||202303071339
+OBX|1567510045|CE|TEICOT^Teicoplanin timing^Trak^^B3006||RAND^Random sample^L|||N|||F|||202303071339
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071508||ACK|fps_epsilon__1676627787256__26737|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26737
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307152011+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26749|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307152005+0000
+OBR|1||990000102106|VANCO^Vancomycin^Trak^44We.^B3915^RC|||202303071359|||||||202303071518||^Nurse 2|||||||||I|||||||Missing Data
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071520||ACK|fps_epsilon__1676627787256__26749|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26749
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307152051+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26751|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307152043+0000
+OBR|1||990000102106|VANCO^Vancomycin^Trak^44We.^B3915^RC|||202303071359|||||||202303071518||^Nurse 2||||||202303071520|||F|||||||Dhanashree Godghate
+NTE|1||Pre-dose levels should normally be 10-15mg/L.
+NTE|2||To improve clinical outcomes in complicated infections caused by
+NTE|3||S. aureus, such as bacteraemia, endocarditis, osteomyelitis,
+NTE|4||meningitis and hospital-acquired pneumonia, pre-dose vancomycin
+NTE|5||levels of 15-20mg/L are recommended.
+NTE|6||In high dependency areas who use continuous infusions of vancomycin,
+NTE|7||a steady state level of 15-25mg/L should be maintained.
+NTE|8
+OBX|1567510046|SN|VANC^Vancomycin^Trak^^B3993||^15.0|mg/L||N|||F|||202303071359
+OBX|1567510047|CE|VANCT^Vancomycin timing^Trak^^B3994||RAND^Random sample^L|||N|||F|||202303071359
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071520||ACK|fps_epsilon__1676627787256__26751|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26751
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307152421+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26755|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307152408+0000
+OBR|1||990000102206|GENTAM^Gentamicin^Trak^44WY.^B3302^RC|||202303071353|||||||202303071523||^Nurse 2|||||||||I|||||||Missing Data
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071524||ACK|fps_epsilon__1676627787256__26755|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26755
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307152451+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26757|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307152439+0000
+OBR|1||990000102206|GENTAM^Gentamicin^Trak^44WY.^B3302^RC|||202303071353|||||||202303071523||^Nurse 2||||||202303071524|||F|||||||Dhanashree Godghate
+NTE|1||Neonates and patients with severe renal impairment: Follow local protocols. Other groups: For a once-daily dose regimen, the pre-dose level taken 18-24 hours after the dose is administered should be <1 mg/L. Post dose levels are not normally required. For timed samples, where local dosing policies use a nomogram to determine timing of gentamicin assay and dosing interval, this should be followed. For a multiple daily dosing regimen, the one hour (or "peak") serum concentration should be 5-10mg/L (or 3-5mg/L if treating streptococcal /enterococcal/staphylococcal endocarditis). The pre-dose (or "trough") concentration level should be < 2mg/L (or < 1mg/L for streptococcal/enterococcal/staphylococcal endocarditis).
+OBX|1567510048|SN|GENT^Gentamicin^Trak^^B3906||^1.1|mg/L||N|||F|||202303071353
+OBX|1567510049|CE|GENTT^Gentamicin Timing^Trak^^B3907||RAND^Random sample^L|||N|||F|||202303071353
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071524||ACK|fps_epsilon__1676627787256__26757|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26757
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307153012+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26763|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307152957+0000
+OBR|1||990000102306|NSE^Neuron specific enolase^Trak^4Q93.^B3245^RC|||202303071424|||||||202303071528||^Nurse 2|||||||||I|||||||Missing Data
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071530||ACK|fps_epsilon__1676627787256__26763|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26763
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307153102+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26765|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307153046+0000
+OBR|1||990000102306|NSE^Neuron specific enolase^Trak^4Q93.^B3245^RC|||202303071424|||||||202303071528||^Nurse 2||||||202303071530|||F|||||||Dhanashree Godghate
+OBX|1567510050|SN|NSE^Neuron specific enolase^Trak^4Q93.^B3809^RC||^7.2|ug/L||N|||F|||202303071424
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071531||ACK|fps_epsilon__1676627787256__26765|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26765
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307153421+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26769|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307153413+0000
+OBR|1||990000102406|TEICO^Teicoplanin^Trak^44Wk.^B3918^RC|||202303071423|||||||202303071532||^Nurse 2|||||||||I|||||||Missing Data
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071534||ACK|fps_epsilon__1676627787256__26769|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26769
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307153521+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26771|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307153508+0000
+OBR|1||990000102406|TEICO^Teicoplanin^Trak^44Wk.^B3918^RC|||202303071423|||||||202303071532||^Nurse 2|||||||||P|||||||Missing Data
+NTE|1||@ Teicoplanin testing performed at
+NTE|2||In serious infections, including bone and joint infections,
+NTE|3||pre-dose teicoplanin levels should be > 20mg/L.
+NTE|4||In infective endocarditis, pre-dose teicoplanin levels
+NTE|5||should be > 30mg/L.
+NTE|6||For all other infections, pre-dose teicoplanin levels
+NTE|7||should be > 15mg/L.
+NTE|8||To avoid toxicity, pre-dose teicoplanin levels should be < 60mg/L.
+NTE|9
+OBX|1567510051|SN|TEICO^Teicoplanin^Trak^44Wk.^B3005^RC||^15.0|mg/L||N|||P|||202303071423
+OBX|1567510052|CE|TEICOT^Teicoplanin timing^Trak^^B3006||RAND^Random sample^L|||N|||P|||202303071423
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071535||ACK|fps_epsilon__1676627787256__26771|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26771
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307153531+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26772|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307153522+0000
+OBR|1||990000102406|TEICO^Teicoplanin^Trak^44Wk.^B3918^RC|||202303071423|||||||202303071532||^Nurse 2||||||202303071535|||F|||||||Dhanashree Godghate
+NTE|1||In serious infections, including bone and joint infections,
+NTE|2||pre-dose teicoplanin levels should be > 20mg/L.
+NTE|3||In infective endocarditis, pre-dose teicoplanin levels
+NTE|4||should be > 30mg/L.
+NTE|5||For all other infections, pre-dose teicoplanin levels
+NTE|6||should be > 15mg/L.
+NTE|7||To avoid toxicity, pre-dose teicoplanin levels should be < 60mg/L.
+NTE|8
+OBX|1567510053|SN|TEICO^Teicoplanin^Trak^44Wk.^B3005^RC||^15.0|mg/L||N|||F|||202303071423
+OBX|1567510054|CE|TEICOT^Teicoplanin timing^Trak^^B3006||RAND^Random sample^L|||N|||F|||202303071423
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071535||ACK|fps_epsilon__1676627787256__26772|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26772
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307154110+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26779|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307154104+0000
+OBR|1||990000102506|PCT^Procalcitonin^Trak^^B5029|||202303071419|||||||202303071538||^Nurse 2|||||||||I|||||||Missing Data
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071541||ACK|fps_epsilon__1676627787256__26779|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26779
+
+
+MSH|^~\&|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|20230307154151+0000||ORU^R01^ORU_R01|fps_epsilon__1676627787256__26781|P|2.5.1|||AL
+PID|||980003736^^^154^PPI~AB3701^^^139^PI~DIG000000000106^^^309^PI||BATZ^VASILIY||193308180000|M|||Flat 129 Empress House^Trawler Road^Swansea^^SA1 1YF
+PV1||IP|^^^7A6G9GUHA2W^^^^^GUH Cardiology A2 West|||||NUR2^Nurse 2||BSC|7A6^^^^^^^^ANEURIN BEVAN|||||||NH
+ORC|OR||||||||20230307154140+0000
+OBR|1||990000102506|PCT^Procalcitonin^Trak^^B5029|||202303071419|||||||202303071538||^Nurse 2||||||202303071541|||F|||||||Dhanashree Godghate
+OBX|1567510055|SN|PROCT^Procalcitonin^Trak^^B5093||^0.04|ug/L||N|||F|||202303071419
+
+
+MSH|^~\&|WICIS^2.16.840.1.113883.2.1.8.1.5.309^ISO|DHCW^L5X6M^L|WRRS^2.16.840.1.113883.2.1.8.1.5.235^ISO|DHCW^L5X6M^L|202303071541||ACK|fps_epsilon__1676627787256__26781|P|2.5.1
+MSA|CA|fps_epsilon__1676627787256__26781
+
+
+File has 1756 lines.

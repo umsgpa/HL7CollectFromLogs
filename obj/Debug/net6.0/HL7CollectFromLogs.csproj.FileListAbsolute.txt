@@ -1,0 +1,15 @@
+C:\Users\itgp\HL7CollectFromLogs\bin\Debug\net6.0\HL7CollectFromLogs.exe
+C:\Users\itgp\HL7CollectFromLogs\bin\Debug\net6.0\HL7CollectFromLogs.deps.json
+C:\Users\itgp\HL7CollectFromLogs\bin\Debug\net6.0\HL7CollectFromLogs.runtimeconfig.json
+C:\Users\itgp\HL7CollectFromLogs\bin\Debug\net6.0\HL7CollectFromLogs.dll
+C:\Users\itgp\HL7CollectFromLogs\bin\Debug\net6.0\HL7CollectFromLogs.pdb
+C:\Users\itgp\HL7CollectFromLogs\obj\Debug\net6.0\HL7CollectFromLogs.csproj.AssemblyReference.cache
+C:\Users\itgp\HL7CollectFromLogs\obj\Debug\net6.0\HL7CollectFromLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itgp\HL7CollectFromLogs\obj\Debug\net6.0\HL7CollectFromLogs.AssemblyInfoInputs.cache
+C:\Users\itgp\HL7CollectFromLogs\obj\Debug\net6.0\HL7CollectFromLogs.AssemblyInfo.cs
+C:\Users\itgp\HL7CollectFromLogs\obj\Debug\net6.0\HL7CollectFromLogs.csproj.CoreCompileInputs.cache
+C:\Users\itgp\HL7CollectFromLogs\obj\Debug\net6.0\HL7CollectFromLogs.dll
+C:\Users\itgp\HL7CollectFromLogs\obj\Debug\net6.0\refint\HL7CollectFromLogs.dll
+C:\Users\itgp\HL7CollectFromLogs\obj\Debug\net6.0\HL7CollectFromLogs.pdb
+C:\Users\itgp\HL7CollectFromLogs\obj\Debug\net6.0\HL7CollectFromLogs.genruntimeconfig.cache
+C:\Users\itgp\HL7CollectFromLogs\obj\Debug\net6.0\ref\HL7CollectFromLogs.dll
