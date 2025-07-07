@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itgp\\HL7CollectFromLogs\\bin\\Debug\\net6.0\\net6.0.csproj": {}
+    "C:\\GitHubRepo\\HL7CollectFromLogs\\bin\\Debug\\net6.0\\net6.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itgp\\HL7CollectFromLogs\\bin\\Debug\\net6.0\\net6.0.csproj": {
+    "C:\\GitHubRepo\\HL7CollectFromLogs\\bin\\Debug\\net6.0\\net6.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itgp\\HL7CollectFromLogs\\bin\\Debug\\net6.0\\net6.0.csproj",
+        "projectUniqueName": "C:\\GitHubRepo\\HL7CollectFromLogs\\bin\\Debug\\net6.0\\net6.0.csproj",
         "projectName": "net6.0",
-        "projectPath": "C:\\Users\\itgp\\HL7CollectFromLogs\\bin\\Debug\\net6.0\\net6.0.csproj",
+        "projectPath": "C:\\GitHubRepo\\HL7CollectFromLogs\\bin\\Debug\\net6.0\\net6.0.csproj",
         "packagesPath": "C:\\Users\\itgp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itgp\\HL7CollectFromLogs\\bin\\Debug\\net6.0\\obj\\",
+        "outputPath": "C:\\GitHubRepo\\HL7CollectFromLogs\\bin\\Debug\\net6.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\itgp\\AppData\\Roaming\\NuGet\\NuGet.Config"

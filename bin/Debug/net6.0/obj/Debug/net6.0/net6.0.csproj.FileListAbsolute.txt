@@ -1,0 +1,15 @@
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\bin\Debug\net6.0\net6.0.exe
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\bin\Debug\net6.0\net6.0.deps.json
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\bin\Debug\net6.0\net6.0.runtimeconfig.json
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\bin\Debug\net6.0\net6.0.dll
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\bin\Debug\net6.0\net6.0.pdb
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\obj\Debug\net6.0\net6.0.csproj.AssemblyReference.cache
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\obj\Debug\net6.0\net6.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\obj\Debug\net6.0\net6.0.AssemblyInfoInputs.cache
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\obj\Debug\net6.0\net6.0.AssemblyInfo.cs
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\obj\Debug\net6.0\net6.0.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\obj\Debug\net6.0\net6.0.dll
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\obj\Debug\net6.0\refint\net6.0.dll
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\obj\Debug\net6.0\net6.0.pdb
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\obj\Debug\net6.0\net6.0.genruntimeconfig.cache
+C:\GitHubRepo\HL7CollectFromLogs\bin\Debug\net6.0\obj\Debug\net6.0\ref\net6.0.dll

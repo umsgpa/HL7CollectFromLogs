@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HL7CollectFromLogs", "HL7CollectFromLogs.csproj", "{B6404CEA-A1DD-43A5-B06F-BB737879CB1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bin", "bin", "{ED4FEB33-93A0-43F5-83AC-222742653284}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{E32992B8-E2E3-404B-8A92-ED07071D707C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net6.0", "bin\Debug\net6.0\net6.0.csproj", "{DCD1E250-E1BD-417C-A8DE-7C0F70685104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6404CEA-A1DD-43A5-B06F-BB737879CB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6404CEA-A1DD-43A5-B06F-BB737879CB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6404CEA-A1DD-43A5-B06F-BB737879CB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6404CEA-A1DD-43A5-B06F-BB737879CB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD1E250-E1BD-417C-A8DE-7C0F70685104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD1E250-E1BD-417C-A8DE-7C0F70685104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD1E250-E1BD-417C-A8DE-7C0F70685104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD1E250-E1BD-417C-A8DE-7C0F70685104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E32992B8-E2E3-404B-8A92-ED07071D707C} = {ED4FEB33-93A0-43F5-83AC-222742653284}
+		{DCD1E250-E1BD-417C-A8DE-7C0F70685104} = {E32992B8-E2E3-404B-8A92-ED07071D707C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E3BE673-60CF-40D8-A310-3D569A9EC8B4}
+	EndGlobalSection
+EndGlobal

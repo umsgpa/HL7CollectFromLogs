@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itgp\\HL7CollectFromLogs\\HL7CollectFromLogs.csproj",
-      "projectName": "HL7 Collect From Logs",
-      "projectPath": "C:\\Users\\itgp\\HL7CollectFromLogs\\HL7CollectFromLogs.csproj",
+      "projectUniqueName": "C:\\GitHubRepo\\HL7CollectFromLogs\\HL7CollectFromLogs.csproj",
+      "projectName": "HL7CollectFromLogs",
+      "projectPath": "C:\\GitHubRepo\\HL7CollectFromLogs\\HL7CollectFromLogs.csproj",
       "packagesPath": "C:\\Users\\itgp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itgp\\HL7CollectFromLogs\\obj\\",
+      "outputPath": "C:\\GitHubRepo\\HL7CollectFromLogs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\itgp\\AppData\\Roaming\\NuGet\\NuGet.Config"
